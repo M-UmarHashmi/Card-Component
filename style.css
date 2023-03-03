@@ -16,6 +16,12 @@ main.container {
     /* width: 50%; */
     /* height: 24rem; */
     max-width: 53rem;
+    /* border-radius: 2rem; */
+}
+.ele-with-border-radius {
+    border-radius: 15px;
+    overflow: hidden;
+    perspective: 1px;
 }
 div.component {
     background-color: gray;
